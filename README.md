@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=PROFILE+VIEWS&color=ff99bd&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=LuluKap&label=PROFILE+VIEWS&color=78cdf4&style=for-the-badge" />
 </p>
 
 <br>
@@ -8,7 +8,7 @@
 <table align="center">
 <tr>
 <td width="35%">
-  <img src="assets/ditto.webp" width="300" alt="Pink pixel frog" />
+  <img src="assets/ditto.webp" width="300" alt="Shiny blue Ditto" />
 </td>
 <td>
 
@@ -41,9 +41,9 @@ lulu@github
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-FFB6C1?style=flat-square&logo=pandas&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-FFB6C1?style=flat-square&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FFB6C1?style=flat-square&logo=postman&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-B9F3FF?style=flat-square&logo=pandas&logoColor=28568C" />
+  <img src="https://img.shields.io/badge/Excel-B9F3FF?style=flat-square&logoColor=28568C" />
+  <img src="https://img.shields.io/badge/Postman-B9F3FF?style=flat-square&logo=postman&logoColor=28568C" />
 </p>
 
 <br>
@@ -55,10 +55,10 @@ lulu@github
 <hr>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-FF99BD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DAX-FF99BD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Advanced_SQL-FF99BD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NumPy-FF99BD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power_BI-78CDF4?style=for-the-badge&logoColor=28568C" />
+  <img src="https://img.shields.io/badge/DAX-78CDF4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Advanced_SQL-78CDF4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-78CDF4?style=for-the-badge" />
 </p>
 
 <br>
@@ -89,7 +89,7 @@ film and television adaptations.
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuluKap&show_icons=true&title_color=ff99bd&icon_color=ff548a&text_color=999999&bg_color=00000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuluKap&show_icons=true&title_color=78cdf4&icon_color=3686b5&text_color=999999&bg_color=00000000&ring_color=78cdf4&hide_border=true" />
 </p>
 
 <br>
@@ -101,11 +101,11 @@ film and television adaptations.
 <hr>
 
 <p align="center">
-  <a href="www.linkedin.com/in/lulu-kapita-0373b0148">
-    <img src="https://img.shields.io/badge/LinkedIn-FF99BD?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/lulu-kapita-0373b0148">
+    <img src="https://img.shields.io/badge/LinkedIn-3686B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lulukapita@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF99BD?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-3686B5?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
