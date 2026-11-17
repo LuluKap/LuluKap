@@ -8,7 +8,7 @@
 <table align="center">
 <tr>
 <td width="35%">
-  <img src="assets/ditto.webp" width="300" alt="Shiny blue Ditto" />
+  <img src="assets/shinyditto.gif" width="300" alt="Shiny blue Ditto" />
 </td>
 <td>
 
