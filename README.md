@@ -31,7 +31,7 @@ lulu@github
 <br>
 
 <h3 align="center">
-T⃞ E⃞ C⃞ H⃞ &nbsp; S⃞ T⃞ A⃞ C⃞ K⃞
+  🅃 🄴 🄲 🄷 &nbsp; 🅂 🅃 🄰 🄲 🄺
 </h3>
 
 <hr>
@@ -49,7 +49,7 @@ T⃞ E⃞ C⃞ H⃞ &nbsp; S⃞ T⃞ A⃞ C⃞ K⃞
 <br>
 
 <h3 align="center">
-L⃞ E⃞ A⃞ R⃞ N⃞ I⃞ N⃞ G⃞
+  🄻 🄴 🄰 🅁 🄽 🄸 🄽 🄶
 </h3>
 
 <hr>
@@ -64,7 +64,7 @@ L⃞ E⃞ A⃞ R⃞ N⃞ I⃞ N⃞ G⃞
 <br>
 
 <h3 align="center">
-P⃞ R⃞ O⃞ J⃞ E⃞ C⃞ T⃞ S⃞
+  🄿 🅁 🄾 🄹 🄴 🄲 🅃 🅂
 </h3>
 
 <hr>
@@ -80,35 +80,28 @@ film and television adaptations.
 
 **Planned tools:** Python, SQL, Excel, Power BI
 
-### 🎬 Movie Rating Application
-A full-stack application for movie ratings.
-
-### 🛒 POS Ordering System
-A software project focused on point-of-sale
-ordering functionality.
-
 <br>
 
 <h3 align="center">
-S⃞ T⃞ A⃞ T⃞ S⃞
+  🅂 🅃 🄰 🅃 🅂
 </h3>
 
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&title_color=ff99bd&icon_color=ff548a&text_color=999999&bg_color=00000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuluKap&show_icons=true&title_color=ff99bd&icon_color=ff548a&text_color=999999&bg_color=00000000&hide_border=true" />
 </p>
 
 <br>
 
 <h3 align="center">
-C⃞ O⃞ N⃞ N⃞ E⃞ C⃞ T⃞
+  🄲 🄾 🄽 🄽 🄴 🄲 🅃
 </h3>
 
 <hr>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/lulu-kapita-0373b0148">
     <img src="https://img.shields.io/badge/LinkedIn-FF99BD?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lulukapita@gmail.com">
