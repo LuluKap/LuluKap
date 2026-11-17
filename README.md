@@ -110,5 +110,5 @@ film and television adaptations.
 </p>
 
 <p align="center">
-  ♡ Powered by curiosity, creativity & data ♡
+  ♡ Powered by red bull & data ♡
 </p>
